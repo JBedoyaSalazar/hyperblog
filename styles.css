@@ -12,3 +12,9 @@ body{
     align-items: center;
     border: aqua solid 2px;
 }
+
+#adicional{
+    font-size: 16;
+    border: rosybrown solid 2px;
+    border-radius: 10px;
+}
