@@ -1,3 +1,0 @@
-Hola es es mi primer commit en git del curso de platzi 
-
-esta es la segunda modificacion
